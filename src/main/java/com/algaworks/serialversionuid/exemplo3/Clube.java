@@ -1,4 +1,4 @@
-package com.algaworks.exemplos.serialversionuid.ex3;
+package com.algaworks.serialversionuid.exemplo3;
 
 import java.time.LocalDate;
 

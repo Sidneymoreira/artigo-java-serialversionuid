@@ -1,4 +1,4 @@
-package com.algaworks.exemplos.serialversionuid.ex4;
+package com.algaworks.serialversionuid.exemplo4;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;

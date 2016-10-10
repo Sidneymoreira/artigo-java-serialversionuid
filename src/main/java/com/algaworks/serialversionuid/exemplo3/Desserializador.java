@@ -1,4 +1,4 @@
-package com.algaworks.exemplos.serialversionuid.ex3;
+package com.algaworks.serialversionuid.exemplo3;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
@@ -11,7 +11,7 @@ public class Desserializador {
 		Clube clube = (Clube) ois.readObject();
 		ois.close();
 
-		System.out.println("Pronto! Objeto descerializado.");
+		System.out.println("Pronto! Objeto desserializado.");
 		System.out.println("Nome: " + clube.getNome());
 	}
 }

@@ -1,4 +1,4 @@
-package com.algaworks.exemplos.serialversionuid.ex2;
+package com.algaworks.serialversionuid.exemplo2;
 
 public class Clube implements java.io.Serializable {
 	
