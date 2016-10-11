@@ -1,6 +1,6 @@
 # artigo-java-serialversionuid
 
-Código referente ao artigo escrito para AlgaWorks
+Código referente ao artigo sobre serialVersionUID.
 
 Saiba mais em:
 
