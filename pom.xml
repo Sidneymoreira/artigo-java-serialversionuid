@@ -6,14 +6,14 @@
     <modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.algaworks</groupId>
-	<artifactId>artigo-java-serialVersionUID</artifactId>
+	<artifactId>artigo-java-serialversionuid</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<packaging>jar</packaging>
 
-	<name>artigo-java-serialVersionUID</name>
+	<name>artigo-java-serialversionuid</name>
 
-	<url>http://blog.algaworks.com/o-que-e-serialversionuid</url>
+	<url>http://blog.algaworks.com/serialversionuid</url>
 
 	<dependencies>
 		<dependency>
